@@ -1,7 +1,5 @@
 # Youssef Yammine - Software Engineering Student
 
-![animation](./animation.gif)
-
 Currently in the 5th year of a software engineering degree.
 
 Hardworking, receptive person with an unmatched passion for computer science, math, code, and design.
