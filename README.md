@@ -4,4 +4,4 @@
 
 ### Hardworking, receptive person with an unmatched passion for computer science, math, code, and design.
 
-### Check out my resume [here](https://lebenebou.github.io/Resume/YoussefYammine.pdf){:target="_blank"}.
+### Check out my resume [here](https://lebenebou.github.io/Resume/YoussefYammine.pdf).
