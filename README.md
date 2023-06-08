@@ -1,4 +1,4 @@
-# Youssef Yammine
+# Youssef Yammine - Software Engineering Student
 
 Currently in the 5th year of a software engineering degree.
 
